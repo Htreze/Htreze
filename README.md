@@ -14,7 +14,7 @@
   <img align="center" alt="Jefferson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jefferson-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Jefferson-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="Jefferson-Shu" src="https://i.gifer.com/origin/54/5453ea28d7e0a1d1cfe1ea94bcfdf8e9_w200.webp">
+  <img align="right" alt="Jefferson-Shu" src="https://i.gifer.com/origin/d0/d050215bbfd210388b4169df13b72fc9_w200.webp">
 </div>
   
  ##
